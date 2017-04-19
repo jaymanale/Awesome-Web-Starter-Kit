@@ -1,0 +1,28 @@
+{
+  "name": "webkit",
+  "version": "1.0.0",
+  "description": "automated web-started-kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaymanale/Awesome-Web-Starter-Kit.git"
+  },
+  "keywords": [
+    "web",
+    "starter",
+    "kit"
+  ],
+  "author": "Jay Manale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaymanale/Awesome-Web-Starter-Kit/issues"
+  },
+  "homepage": "https://github.com/jaymanale/Awesome-Web-Starter-Kit#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
+}
